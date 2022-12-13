@@ -1,0 +1,4 @@
+outs:
+- md5: 21eb1bbf11aba2b2ccb38d9bbaffbe15
+  size: 128946
+  path: staticNormalized.feather

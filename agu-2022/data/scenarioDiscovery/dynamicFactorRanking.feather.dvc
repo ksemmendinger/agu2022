@@ -1,0 +1,4 @@
+outs:
+- md5: f982ce5b4bef4a537c2ca1ca64b60914
+  size: 11266
+  path: dynamicFactorRanking.feather

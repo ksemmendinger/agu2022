@@ -1,0 +1,13 @@
+name: agu-2022
+title: agu-2022
+username:
+account: ksemmendinger
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7887146
+bundleId: 6633581
+url: https://ksemmendinger.shinyapps.io/agu-2022/
+when: 1670968491.72153
+lastSyncTime: 1670968491.72155
+asMultiple: FALSE
+asStatic: FALSE

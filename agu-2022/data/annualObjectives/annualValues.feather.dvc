@@ -1,0 +1,4 @@
+outs:
+- md5: dc86b4a8a77a2e447a61b8354ff19f3d
+  size: 13420714
+  path: annualValues.feather
